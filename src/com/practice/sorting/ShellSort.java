@@ -24,7 +24,10 @@ public class ShellSort {
 
 		}
 
+		System.out.println("***** Shell Sort *****");
+
 		System.out.println(Arrays.toString(arr));
+
 	}
 
 }
