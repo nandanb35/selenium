@@ -25,6 +25,8 @@ public class ShellSort {
 		}
 
 		System.out.println("***** Shell Sort *****");
+		
+		System.out.println("***** Shell Sort is extension of insertion sort *****");
 
 		System.out.println(Arrays.toString(arr));
 
