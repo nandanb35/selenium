@@ -5,7 +5,8 @@ import java.util.Arrays;
 public class ShellSort {
 
 	public static void main(String[] args) {
-		int[] arr = { 12, 77, 6, 45, 8, 1, -2, 199, -19 };
+
+		int[] arr = { 12, 36, 6, 45, 8, 1, -2, 199, -19 };
 
 		for (int gap = arr.length / 2; gap > 0; gap /= 2) {
 
