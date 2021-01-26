@@ -29,6 +29,8 @@ public class ShellSort {
 		System.out.println("***** Shell Sort is extension of insertion sort *****");
 		
 		System.out.println("***** Testing stash *****");
+		
+		System.out.println("***** committing to master*****");
 
 		System.out.println(Arrays.toString(arr));
 
