@@ -30,7 +30,7 @@ public class ShellSort {
 		
 		System.out.println("***** Testing stash *****");
 		
-		System.out.println("***** committing to master 26-01-21*****");
+		System.out.println("***** committing to sprint1*****");
 
 		System.out.println(Arrays.toString(arr));
 
